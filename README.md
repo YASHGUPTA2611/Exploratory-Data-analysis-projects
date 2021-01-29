@@ -4,7 +4,7 @@ In this repository, I have done exploratory data analysis on various Datasets.
 
 Hope you like it.
 
-1. Life expectancy analysis :-
+1. LIFE EXPECTANCY ANALYSIS :-
 
 Had done Statistical Analysis on factors influencing Life Expectancy. 
 
@@ -15,7 +15,7 @@ The dataset is been collected by WHO. Link to the dataset : https://www.kaggle.c
 I have answered all the question related to the dataset and the analysis.
 
 
-2. Sample store analysis :-
+2. SAMPLE STORE ANALYSIS :-
 
 Performed ‘Exploratory Data Analysis’ on dataset ‘Sample Superstore’.
 
@@ -24,6 +24,6 @@ Performed ‘Exploratory Data Analysis’ on dataset ‘Sample Superstore’.
 I have find out the weak areas and given complete solution where you can work to make more profit. 
 
 
-3. Netflix Data analysis :-
+3. NETFLIX DATA ANALYSIS :-
 
 Data Visualization and analysis of Netflix movies and tv shows.
