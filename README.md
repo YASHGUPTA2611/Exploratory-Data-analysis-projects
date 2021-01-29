@@ -27,3 +27,5 @@ I have find out the weak areas and given complete solution where you can work to
 3. NETFLIX DATA ANALYSIS :-
 
 Data Visualization and analysis of Netflix movies and tv shows.
+
+" netflix_titles.csv " is the dataset file.
